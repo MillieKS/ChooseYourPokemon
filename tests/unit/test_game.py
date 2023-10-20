@@ -1,7 +1,7 @@
-
-from lib.greet_player import *
+from game.game import *
 import builtins
 import pytest
+
 
 def test_return_error_when_no_input_is_given():
     # Simulate user input by replacing the input function
