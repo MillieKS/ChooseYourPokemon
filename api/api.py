@@ -1,3 +1,4 @@
+# ChooseYourPokemon/api/api.py
 import random
 import requests
 
@@ -10,6 +11,7 @@ def random_pokemon():
     stats = {
     'name': pokemon['name'],
     'id': pokemon['id'],
+    'base_experience': pokemon['base_experience'],
     'height': pokemon['height'],
     'weight': pokemon['weight'],
     }
