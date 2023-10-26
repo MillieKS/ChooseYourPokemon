@@ -23,4 +23,4 @@ This is a Top trumps game where you will play against the computer.
 
 ## Why?
 
-I have been learning python for a while now and wanted to see how it would work on an project. Pokemon resonatesba lot with my childhood and so I thought it would be fun to create something I would have played myself.
+I have been learning python for a while now and wanted to see how it would work in an project. Pokemon resonates a lot with my childhood and so I thought it would be fun to create something I would have played myself.
