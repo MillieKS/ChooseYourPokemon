@@ -2,7 +2,7 @@
 
 This is a Top trumps game where you will play against the computer. 
 
-##This projects goals:
+### This projects goals:
 
 - create a game using python with pytest
 - learn to use Flask for front-end interface
